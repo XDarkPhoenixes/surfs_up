@@ -1,12 +1,13 @@
 # surfs_up
 
 ## Overview of the analysis
-In order to show an investor a surf shop is sustainable to open up in Oahu, Hawaii, analysis on a weather dataset provided in SQLite database was run using the query tool SQLAlchemy. 
-
-This analysis focused on the temperature data for the months of June and Decemeber in Oahu. The results were summarized and compared.
+In order to show an investor a surf shop is sustainable to open up in Oahu, Hawaii, analysis on a weather dataset provided in SQLite database was run using the query tool SQLAlchemy. This analysis focused on the temperature data for the months of June and Decemeber in Oahu. The results were summarized and compared.
 
 ## Results
 - The mean temperature, maximum temperature, minimum temperature in June are all higher than the mean temperature, maximum temperature, minimum temperature in December.
+
+![June](https://user-images.githubusercontent.com/84931545/130380571-bf6a75c1-ebc3-46da-a51d-c9acc41ce395.PNG)
+![December](https://user-images.githubusercontent.com/84931545/130380575-c56d699c-0d2a-4b51-bf1d-379c473c34be.PNG)
 
 - Base on the number of counts, there are more data points collected in June than in December.
 
@@ -20,5 +21,10 @@ Additional queries could be executed to find out the precipitation statistics in
 
 Query for precipitation of Decemeber.
 
+![Precipitation 12](https://user-images.githubusercontent.com/84931545/130380588-188b5ac9-9b45-4940-a615-4847dccb374a.PNG)
+
 
 Query for Precipitation of June of 2017.
+
+![Precipitation201706](https://user-images.githubusercontent.com/84931545/130380595-ecca666e-a3ac-49e1-bd11-e94b18b3732d.PNG)
+
