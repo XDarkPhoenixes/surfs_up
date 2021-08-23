@@ -6,11 +6,11 @@ In order to show an investor a surf shop is sustainable to open up in Oahu, Hawa
 ## Results
 - The mean temperature, maximum temperature, minimum temperature in June are all higher than the mean temperature, maximum temperature, minimum temperature in December.
 
-![June](https://user-images.githubusercontent.com/84931545/130380571-bf6a75c1-ebc3-46da-a51d-c9acc41ce395.PNG)
-![December](https://user-images.githubusercontent.com/84931545/130380575-c56d699c-0d2a-4b51-bf1d-379c473c34be.PNG)
+![June](https://user-images.githubusercontent.com/84931545/130381041-a7b89209-9267-4d65-93d6-7b15d3da91a4.PNG)
+
+![December](https://user-images.githubusercontent.com/84931545/130381048-0c520699-868a-431c-a546-fbcc2edc481b.PNG)
 
 - Base on the number of counts, there are more data points collected in June than in December.
-
 - The standard deviation for the temperatures is 3.75 in December which is higher than the standard deviation for the temperatures in June which is 3.26.
 
 ## Summary
